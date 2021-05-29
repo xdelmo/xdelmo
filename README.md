@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate **with everyone at my same coding level**
 
+- 🥅 My goals are **build a good looking webportfolio**
+
 - ⚡ Fun fact **I am a Pokémon and WoW fanboy**
 
 <h3 align="left">🌐 Connect with me:</h3>
