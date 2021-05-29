@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Hugo and MD**
 
+- 👯 I’m looking to collaborate **with everyone**
+
 - ⚡ Fun fact **I bricked so many phones**
 
 <h3 align="left">Connect with me:</h3>
