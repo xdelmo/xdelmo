@@ -23,5 +23,5 @@
 
 <h3 align="left">📝 Latest <a href="https://www.techbudget.it/">Blog</a> Posts:</h3>
 <ul>
-<li><a href="https://www.techbudget.it/blog/hello-world/">Hello World!</a></li>
+<li><a href="https://techbudget.it/categories/guida-allacquisto/">Guide all'acquisto</a></li>
 </ul>
