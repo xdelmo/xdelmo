@@ -24,4 +24,5 @@
 <h3 align="left">📝 Latest <a href="https://www.techbudget.it/">Blog</a> Posts:</h3>
 <ul>
 <li><a href="https://techbudget.it/categories/guida-allacquisto/">Guide all'acquisto</a></li>
+<li><a href="https://techbudget.it/categories/pc-build/">PC Build</a></li>
 </ul>
