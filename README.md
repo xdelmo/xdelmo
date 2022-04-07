@@ -38,3 +38,4 @@
 <li><a href="https://techbudget.it/categories/guida-allacquisto/">Guide all'acquisto</a></li>
 <li><a href="https://techbudget.it/categories/pc-build/">PC Build</a></li>
 </ul>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdelmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
