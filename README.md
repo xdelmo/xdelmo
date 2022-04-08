@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **a budget-oriented tech site**
 
-- 🌱 I’m currently learning **Hugo and MD**
+- 🌱 I’m currently learning **Web Developing and JavaScript Algorithms**
 
 - 👯 I’m looking to collaborate **with everyone at my same coding level**
 
 - 🥅 My current goal is **building a good looking webportfolio**
 
-- ⚡ Fun fact **I am a Pokémon and WoW fanboy**
+- ⚡ Fun fact **I am a Pokémon and World of Warcraft hardcore player**
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
