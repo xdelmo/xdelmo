@@ -33,8 +33,8 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">📝 Latest <a href="https://www.techbudget.it/">Blog</a> Posts:</h3>
+<h3 align="left">📝 Latest Projects:</h3>
 <ul>
-<li><a href="https://techbudget.it/categories/guida-allacquisto/">Guide all'acquisto</a></li>
-<li><a href="https://techbudget.it/categories/pc-build/">PC Build</a></li>
+<li><a href="https://htmlpreview.github.io/?https://github.com/xdelmo/Build-A-Personal-Portfolio-Webpage/blob/master/index.html">Personal Portfolio built with HTML and CSS</a></li>
+<li><a href="https://techbudget.it">My tech website hosted by Netlify and Github</a></li>
 </ul>
