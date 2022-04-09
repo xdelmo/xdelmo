@@ -1,7 +1,6 @@
 <h1 align="center">Ciao 👋, my name is Emanuele but everybody calls me Delmo</h1>
-<h3 align="center">An almost Software Engineer from Italy</h3>
+<h3 align="center">An almost Software Engineer from Italy</h3><hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xdelmo&label=Profile%20views&color=0e75b6&style=flat" alt="xdelmo" /> </p>
 
 - 🔭 I’m currently working on **a budget-oriented tech site**
 
@@ -41,4 +40,5 @@
 <li><a href="https://htmlpreview.github.io/?https://github.com/xdelmo/Build-A-Personal-Portfolio-Webpage/blob/master/index.html">Personal Portfolio built with HTML and CSS</a></li>
 <li><a href="https://techbudget.it">Website hosted by Netlify and Github</a></li>
 </ul>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xdelmo&label=Profile%20views&color=0e75b6&style=flat" alt="xdelmo" /> </p>
 
