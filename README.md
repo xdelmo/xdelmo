@@ -15,8 +15,9 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/imxdelmo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png" alt="imxdelmo-instagram" height="40" width="40" /></a>
-<a href="https://instagram.com/techbudget.it" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png" alt="techbudget.it-instagram" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/emanueledelmonte/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" alt="linkedin-logo" height="40" width="40" /></a>
 </p>
+
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> 
