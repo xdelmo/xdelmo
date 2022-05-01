@@ -1,5 +1,5 @@
 <h1 align="center">Ciao 👋, my name is Emanuele but everybody calls me Delmo</h1>
-<h3 align="center">An almost Software Engineer from Italy</h3><hr>
+<h3 align="center">I solve problems creatively 🪄 </h3><hr>
 
 
 - 🔭 I’m currently working on **a budget-oriented tech site**
