@@ -2,13 +2,13 @@
 <h3 align="center">I solve problems creatively 🪄 </h3><hr>
 
 
-- 🔭 I’m currently working on **a budget-oriented tech site**
+- 🔭 I’m working on **a budget-oriented tech site**
 
 - 🌱 I’m currently learning **Web Developing and JavaScript Algorithms**
 
 - 👯 I’m looking to collaborate **with everyone at my same coding level**
 
-- 🥅 My current goal is **building a good looking webportfolio**
+- 🥅 Right now my goal is **becoming a discreet front-end developer**
 
 - ⚡ Fun fact **I am a Pokémon and World of Warcraft hardcore player**
 
