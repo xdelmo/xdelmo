@@ -39,7 +39,6 @@
 <h3 align="left">📝 Latest Projects:</h3>
 <ul>
 <li><a href="https://www.emanueledelmonte.it/">My Personal Portfolio built using Gatsby</a></li>
-<li><a href="https://htmlpreview.github.io/?https://github.com/xdelmo/Build-A-Personal-Portfolio-Webpage/blob/master/index.html">FreeCodeCamp Project Portfolio built with HTML and CSS</a></li>
 <li><a href="https://techbudget.it">Website hosted by Netlify and Github</a></li>
 </ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdelmo&label=Profile%20views&color=0e75b6&style=flat" alt="xdelmo" /> </p>
