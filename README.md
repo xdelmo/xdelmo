@@ -1,10 +1,9 @@
 <h1 align="center">Ciao 👋, my name is Emanuele but everybody calls me Delmo</h1>
 <h3 align="center">I solve problems creatively 🪄 </h3><hr>
 
+- 🌱 I’m currently learning **Web Developing and JavaScript Algorithms**
 
 - 🔭 I’m working on **a budget-oriented tech site**
-
-- 🌱 I’m currently learning **Web Developing and JavaScript Algorithms**
 
 - 👯 I’m looking to collaborate **with everyone at my same coding level**
 
