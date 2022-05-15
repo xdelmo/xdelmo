@@ -1,4 +1,4 @@
-<h1 align="center">Ciao 👋, my name is Emanuele but everybody calls me Delmo</h1>
+<h1 align="center">Ciao!👋 My name is Emanuele but everybody calls me Delmo</h1>
 <h3 align="center">I solve problems creatively 🪄 </h3><hr>
 
 - 🌱 I’m currently learning **Web Developing and JavaScript Algorithms**
@@ -30,7 +30,6 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=xdelmo&layout=compact)
