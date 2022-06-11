@@ -1,5 +1,9 @@
-<h1 align="center">Ciao!👋 My name is Emanuele but everybody calls me Delmo</h1>
-<h3 align="center">I solve problems creatively 🪄 </h3><hr>
+Ciao!👋 My name is Emanuele but everybody calls me Delmo
+========================================================
+
+### I solve problems creatively 🪄
+
+* * *
 
 - 🌱 I’m currently learning **Web Developing and JavaScript Algorithms**
 
@@ -11,7 +15,7 @@
 
 - ⚡ Fun fact **I am a Pokémon and World of Warcraft hardcore player**
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Connect with me:
 <p align="left">
 
 <a href="https://www.emanueledelmonte.it" target="blank"><img align="center" src="https://github.com/xdelmo/Portfolio-minimal/blob/master/content/images/favicon.png?raw=true" alt="favicon" height="40" width="40" /></a>
@@ -21,7 +25,7 @@
 
 
 
-<h3 align="left">💻 Languages and Tools:</h3>
+### 💻 Languages and Tools:
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -33,10 +37,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=xdelmo&layout=compact)
 
 
-<h3 align="left">📝 Latest Projects:</h3>
-<ul>
-<li><a href="https://www.emanueledelmonte.it/">My Personal Portfolio</a></li>
-<li><a href="https://techbudget.it">Website hosted by Netlify and Github</a></li>
-</ul>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xdelmo&label=Profile%20views&color=0e75b6&style=flat" alt="xdelmo" /> </p>
+### 📝 Latest Projects:
+- [My Personal Portfolio](https://www.emanueledelmonte.it/)
 
+<img src="https://komarev.com/ghpvc/?username=xdelmo&label=Profile%20views&color=0e75b6&style=flat" alt="xdelmo profile views" />
