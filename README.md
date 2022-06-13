@@ -1,7 +1,7 @@
 Ciao!👋 My name is Emanuele but everybody calls me Delmo
 ========================================================
 
-### I solve problems creatively 🪄
+### I solve web problems creatively 🪄
 
 * * *
 
