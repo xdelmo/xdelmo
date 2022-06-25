@@ -20,7 +20,6 @@ Ciao!👋 My name is Emanuele but everybody calls me Delmo
 
 <a href="https://www.emanueledelmonte.it" target="blank"><img align="center" src="https://github.com/xdelmo/Portfolio-minimal/blob/master/content/images/favicon.png?raw=true" alt="favicon" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/emanueledelmonte/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" alt="linkedin-logo" height="40" width="40" /></a>
-<a href="https://instagram.com/imxdelmo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png" alt="imxdelmo-instagram" height="40" width="40" /></a>
 </p>
 
 
