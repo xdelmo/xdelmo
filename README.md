@@ -36,9 +36,4 @@ Ciao!👋 My name is Emanuele but everybody calls me Delmo
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=xdelmo&layout=compact)
 
-
-### 📝 Latest Projects:
-- [My Personal Portfolio](https://www.emanueledelmonte.it/)
-- [Random Passwords Generator](https://github.com/xdelmo/random-password-generator)
-
 <img src="https://komarev.com/ghpvc/?username=xdelmo&label=Profile%20views&color=0e75b6&style=flat" alt="xdelmo profile views" />
