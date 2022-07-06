@@ -16,15 +16,16 @@ Ciao!👋 My name is Emanuele but everybody calls me Delmo
 - ⚡ Fun fact **I am a Pokémon and World of Warcraft hardcore player**
 
 ### 🌐 Connect with me:
-<p align="left">
 
+<p align="left">
 <a href="https://www.emanueledelmonte.it" target="blank"><img align="center" src="https://github.com/xdelmo/Portfolio-minimal/blob/master/content/images/favicon.png?raw=true" alt="favicon" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/emanueledelmonte/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" alt="linkedin-logo" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/emanueledelmonte/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" alt="linkedin-logo" height="40" width="40" target="_blank" rel="noopener noreferrer"/></a>
 </p>
 
 
 
 ### 💻 Languages and Tools:
+
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
