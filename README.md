@@ -47,11 +47,6 @@ Currently focusing on **Frontend Architecture** and Modern Web Standards.
 </a>
 </div>
 
-### 📄 Resume
-<a href="https://www.emanueledelmonte.it/Emanuele-DelMonte-CV.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Download_CV-Success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
-</a>
-
-<br />
+---
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=xdelmo&layout=compact&theme=radical)
