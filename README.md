@@ -1,49 +1,57 @@
-Ciao!👋 My name is Emanuele but everybody calls me Delmo
-========================================================
+# Ciao! 👋 My name is Emanuele, but everybody calls me Delmo.
 
-### I solve web problems creatively 🪄
+### 👨‍💻 Junior Software Engineer | Frontend Enthusiast
+
+I am a passionate developer transitioning from academic projects to **Enterprise-level solutions**.
+Currently focusing on **Frontend Architecture** and Modern Web Standards.
 
 * * *
 
-- 🌱 I’m currently learning **Web Developing and JavaScript Algorithms**
+- 🎓 I’m currently working on my **Bachelor Thesis**: a complex Dashboard using **Angular 19, Signals, and RxJS**.
+- 🚀 I’m looking for opportunities in the **Consultancy & System Integration** sector.
+- 💬 Ask me about **Angular, State Management, and UI Components**.
+- ⚡ Fun fact: When I'm not coding, I am a **World of Warcraft hardcore raider** (Teamwork is my daily bread!).
 
-- 🔭 I’m working on **projects to add to my portfolio**
+---
 
-- 👯 I’m looking to collaborate **with everyone at my same coding level**
+### 🛠️ Tech Stack & Tools
 
-- 🥅 Right now my goal is **becoming a discreet front-end developer**
-
-- ⚡ Fun fact **I am a Pokémon and World of Warcraft hardcore player**
-
-### 🌐 Connect with me:
-
-<div>
-<a href="https://www.emanueledelmonte.it" target="blank"><img align="center" src="https://github.com/xdelmo/Portfolio-minimal/blob/master/content/images/favicon.png?raw=true" alt="favicon" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/emanueledelmonte/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" alt="linkedin-logo" height="40" width="40" target="_blank" rel="noopener noreferrer"/></a>
+**Core Stack:**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-### 💻 Languages and Tools:
-
-<div> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/></a>
-<a href="https://www.framer.com/developers/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/VSfMRNJ/0-Z-jwqyt2k8-Nb-Ha-Qe-removebg-preview.png" alt="framer motion" width="35" height="35"/> </a>   
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="35" height="35"/> </a>   
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" width="35" height="35"/> </a>  
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://www.canva.com/it_it/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+**Familiar With:**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-### 📓 Checkout my resume:
-<div>
-<a href="https://www.emanueledelmonte.it/Emanuele-DelMonte-CV.pdf" target="blank">Click here!</a>
+---
+
+### 🌐 Connect with me
+
+<div align="left">
+<a href="https://www.linkedin.com/in/emanueledelmonte/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.emanueledelmonte.it" target="_blank">
+  <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website" />
+</a>
 </div>
 
-###
+### 📄 Resume
+<a href="https://www.emanueledelmonte.it/Emanuele-DelMonte-CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download_CV-Success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+</a>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=xdelmo&layout=compact)
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=xdelmo&label=Profile%20views&color=0e75b6&style=flat" alt="xdelmo profile views" />
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=xdelmo&layout=compact&theme=radical)
