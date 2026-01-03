@@ -46,7 +46,3 @@ Currently focusing on **Frontend Architecture** and Modern Web Standards.
   <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website" />
 </a>
 </div>
-
----
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=xdelmo&layout=compact&theme=radical)
