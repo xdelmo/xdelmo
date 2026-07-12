@@ -49,7 +49,11 @@ I am a passionate **Software Engineer** focused on building high-performance **F
 
 ### 🚀 Featured Projects
 
-* **APEXFLOW** - *Angular 19, Signals, RxJS*
+* **PresenZ** - *Python 3.12, Aiogram 3, Docker, APScheduler*
+    <br> A smart Telegram assistant that automates daily HR presence logging via an interactive UI. It features persistent state management, automated .xlsx generation, SMTP email delivery, and a full CI/CD pipeline using GitHub Container Registry.
+    <br> [🔗 View Repository](https://github.com/xdelmo/presenz-lazy-bot)
+  
+* **ApexFlow** - *Angular 19, Signals, RxJS*
     <br> An advanced Enterprise Dashboard built as my Bachelor's final project. It features highly reactive state management using Signals and RxJS.
     <br> [🔗 View Repository](https://github.com/xdelmo/dashboard-tesi) | [🔴 Live Demo](https://dashboard-tesi.vercel.app/welcome)
 
