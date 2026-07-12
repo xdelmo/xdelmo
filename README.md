@@ -1,9 +1,5 @@
 # Ciao! 👋 My name is Emanuele, but everybody calls me Delmo.
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=xdelmo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
 ### 👨‍💻 Software Engineer | Frontend Specialist
 
 I am a passionate **Software Engineer** focused on building high-performance **Frontend Architectures**, Modern Web Standards, and **Enterprise-level solutions**.
@@ -49,13 +45,13 @@ I am a passionate **Software Engineer** focused on building high-performance **F
 
 ### 🚀 Featured Projects
 
-* **PresenZ** - *Python 3.12, Aiogram 3, Docker, APScheduler*
-    <br> A smart Telegram assistant that automates daily HR presence logging via an interactive UI. It features persistent state management, automated .xlsx generation, SMTP email delivery, and a full CI/CD pipeline using GitHub Container Registry.
-    <br> [🔗 View Repository](https://github.com/xdelmo/presenz-lazy-bot)
-  
 * **ApexFlow** - *Angular 19, Signals, RxJS*
-    <br> An advanced Enterprise Dashboard built as my Bachelor's final project. It features highly reactive state management using Signals and RxJS.
+    <br> An advanced Enterprise Dashboard developed as my Bachelor's Thesis. Engineered with a focus on modern architectures, it features highly reactive state management using Signals and RxJS to handle complex data streams efficiently.
     <br> [🔗 View Repository](https://github.com/xdelmo/dashboard-tesi) | [🔴 Live Demo](https://dashboard-tesi.vercel.app/welcome)
+
+* **PresenZ** - *Python 3.12, Aiogram 3, Docker, APScheduler*
+    <br> A smart Telegram assistant designed to automate daily HR presence logging via an interactive UI. Built with persistent state management, automated `.xlsx` report generation, SMTP email delivery, and deployed through a full CI/CD pipeline using GitHub Container Registry.
+    <br> [🔗 View Repository](https://github.com/xdelmo/presenz-lazy-bot)
 
 ---
 
@@ -71,10 +67,13 @@ I am a passionate **Software Engineer** focused on building high-performance **F
 ### 🌐 Connect with me
 
 <div align="left">
-<a href="https://www.emanueledelmonte.it" target="_blank">
-  <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website" />
-</a>
-<a href="mailto:info@emanueledelmonte.it" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=xdelmo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+<div align="left">
+  <a href="https://www.emanueledelmonte.it" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:info@emanueledelmonte.it" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
