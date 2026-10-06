@@ -1,79 +1,61 @@
-# Ciao! 👋 My name is Emanuele, but everybody calls me Delmo.
+# Hi, I'm Emanuele 👋 (everybody calls me Delmo)
 
-### 👨‍💻 Software Engineer | Frontend Specialist
+**Frontend Engineer** at IPS S.p.A., based in Latina, Italy. I build Angular interfaces that stay fast when the data gets big: large tables with server-side pagination and filtering, reactive state with Signals and RxJS. **Open to remote roles.**
 
-I am a passionate **Software Engineer** focused on building high-performance **Frontend Architectures**, Modern Web Standards, and **Enterprise-level solutions**.
-
-* * *
-
-- 🎓 **Education:** Recently graduated with a **Bachelor's Degree in Computer Engineering**. My final project was an advanced Enterprise Dashboard built with **Angular 19, Signals, and RxJS**.
-- 💼 **Current Focus:** Developing scalable web applications, integrating robust Frontend interfaces with **Spring Boot** microservices.
-- 💬 Ask me about **Angular Architecture, State Management (Signals), and UI Components**.
-- ⚡ Fun fact: When I'm not coding, I am a **World of Warcraft hardcore raider** (Teamwork is my daily bread!).
+🌐 [emanueledelmonte.it](https://www.emanueledelmonte.it) · 💼 [LinkedIn](https://www.linkedin.com/in/emanueledelmonte/) · ✉️ [info@emanueledelmonte.it](mailto:info@emanueledelmonte.it)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 👨‍💻 What I do
 
-**Frontend & Core:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-**Backend & Databases:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-**Tools & Other Technologies:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-</div>
+- **Now:** Software Engineer, Frontend Specialist at IPS S.p.A. (2026 – present). Enterprise front ends in Angular, built around large amounts of data. I joined as a software engineering intern while finishing my degree.
+- **Before:** about two years as a Frontend Developer at a web agency: CRMs, e-commerce sites and Flexie, a B2B configurator for flexible packaging that handles more than 100 combinations of materials, formats and accessories with real-time pricing.
+- **Education:** BSc in Computer Engineering, Università Mercatorum (April 2026). My thesis is ApexFlow, a full-stack CRM dashboard in Angular and Spring Boot.
+- **AI in my day:** I use Claude Code to write and review code, draft tests, find my way around new APIs and keep documentation up to date. I also studied how language models reach real tools and data, and built an MCP server to try it.
+- ⚡ **Fun fact:** when I'm not coding I'm a World of Warcraft hardcore raider (teamwork is my daily bread), and I've played the drums for more than ten years.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured projects
 
-* **ApexFlow** - *Angular 19, Signals, RxJS*
-    <br> An advanced Enterprise Dashboard developed as my Bachelor's Thesis. Engineered with a focus on modern architectures, it features highly reactive state management using Signals and RxJS to handle complex data streams efficiently.
-    <br> [🔗 View Repository](https://github.com/xdelmo/dashboard-tesi) | [🔴 Live Demo](https://dashboard-tesi.vercel.app/welcome)
+- **ApexFlow** · *Angular 19, Signals, RxJS, PrimeNG, Spring Boot 3, PostgreSQL*
+  <br>A CRM and analytics dashboard, my Bachelor's thesis: one reusable state class keeps pagination, sorting and filters in the URL, and changing a filter triggers exactly one API call.
+  <br>[🔴 Live demo](https://dashboard-tesi.vercel.app/welcome) · [Back end code](https://github.com/xdelmo/backend-tesi)
 
-* **PresenZ** - *Python 3.12, Aiogram 3, Docker, APScheduler*
-    <br> A smart Telegram assistant designed to automate daily HR presence logging via an interactive UI. Built with persistent state management, automated `.xlsx` report generation, SMTP email delivery, and deployed through a full CI/CD pipeline using GitHub Container Registry.
-    <br> [🔗 View Repository](https://github.com/xdelmo/presenz-lazy-bot)
+- **MCP Server** · *Python, Model Context Protocol*
+  <br>A Model Context Protocol server and client that lets an LLM read and edit documents through custom tools, built while following the Anthropic Academy MCP courses.
+  <br>[🔗 Code](https://github.com/xdelmo/mcp-server)
+
+- **Ice Friends Breaker** · *Next.js, Supabase, Tailwind CSS, Capacitor*
+  <br>A social card game to break the ice, installable on phones as a PWA and native app, with one daily question shared by everyone.
+  <br>[🃏 Play it](https://ice-friends-breaker.vercel.app)
+
+- **Telegram bots** · *TypeScript, Python, grammY, SQLite, Docker*
+  <br>Three bots I use every day: car deadlines, my Pokémon TCG binder and attendance timesheets.
+
+- **Side quests:** PokèVerba, a daily Pokémon crossword styled like a Game Boy (WordPress + React), and 3D-printed parts modelled entirely in Python with build123d.
+
+- **This portfolio** · *Angular 22, GSAP, Three.js*
+  <br>Static, bilingual, accessible (WCAG 2.2 AA), with a voxel moai and a pixel field.
+  <br>[🔗 Code](https://github.com/xdelmo/Portfolio-minimal)
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tools
+
+- **Every day:** Angular, Signals, RxJS, TypeScript, PrimeNG, SCSS, Claude Code
+- **In production:** Spring Boot, Java, PostgreSQL, Docker, Node.js, Vitest, Playwright, ESLint, Git
+- **In side projects:** Next.js, React, Supabase, Tailwind CSS, Flutter, Python, MCP
+
+---
+
+### 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xdelmo&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=00ffff&text_color=ffffff&icon_color=00ffff" height="150" alt="Emanuele's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdelmo&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=00ffff&text_color=ffffff" height="150" alt="Emanuele's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xdelmo&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=4d9bf0&text_color=ffffff&icon_color=4d9bf0" height="150" alt="Emanuele's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdelmo&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=4d9bf0&text_color=ffffff" height="150" alt="Emanuele's top languages" />
 </div>
 
----
-
-### 🌐 Connect with me
-
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=xdelmo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-<div align="left">
-  <a href="https://www.emanueledelmonte.it" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:info@emanueledelmonte.it" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=xdelmo&label=Profile%20views&color=0066d4&style=flat" alt="Profile views" />
 </div>
