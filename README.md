@@ -8,10 +8,10 @@
 
 ### 👨‍💻 What I do
 
-- **Now:** Software Engineer, Frontend Specialist at IPS S.p.A. (2026 – present). Enterprise front ends in Angular, built around large amounts of data. I joined as a software engineering intern while finishing my degree.
-- **Before:** about two years as a Frontend Developer at a web agency: CRMs, e-commerce sites and Flexie, a B2B configurator for flexible packaging that handles more than 100 combinations of materials, formats and accessories with real-time pricing.
+- **Now:** Software Engineer, Frontend Specialist at IPS S.p.A. (2026 – present), in the product team of an enterprise management platform for cybersecurity: moving legacy components to Signals with facades over the NgRx store, a query builder for advanced filters on large data sets in Kendo Grid, a custom HTML5 video player that searches its subtitles. I joined as an intern while finishing my degree and built ApexFlow with the team.
+- **Before:** almost two years (2022 – 2024) as a Frontend Developer at a web agency: CRMs and single-page apps in Angular and Next.js, custom WordPress plugins for e-commerce sites, and Flexie, a B2B configurator for flexible packaging that handles more than 100 combinations of materials, formats and accessories with real-time pricing.
 - **Education:** BSc in Computer Engineering, Università Mercatorum (April 2026). My thesis is ApexFlow, a full-stack CRM dashboard in Angular and Spring Boot.
-- **AI in my day:** I use Claude Code to write and review code, draft tests, find my way around new APIs and keep documentation up to date. I also studied how language models reach real tools and data, and built an MCP server to try it.
+- **AI in my day:** I use Claude Code to write and review code, draft tests, find my way around new APIs and keep documentation up to date. I took the Anthropic Academy courses on Claude Code, the Model Context Protocol and AI Fluency, and built an MCP server to try it.
 - ⚡ **Fun fact:** when I'm not coding I'm a World of Warcraft hardcore raider (teamwork is my daily bread), and I've played the drums for more than ten years.
 
 ---
@@ -43,7 +43,7 @@
 
 ### 🛠️ Tools
 
-- **Every day:** Angular, Signals, RxJS, TypeScript, PrimeNG, SCSS, Claude Code
+- **Every day:** Angular, Signals, RxJS, NgRx, TypeScript, SCSS, Claude Code
 - **In production:** Spring Boot, Java, PostgreSQL, Docker, Node.js, Vitest, Playwright, ESLint, Git
 - **In side projects:** Next.js, React, Supabase, Tailwind CSS, Flutter, Python, MCP
 
