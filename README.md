@@ -37,6 +37,19 @@ I build Angular interfaces that stay fast when the data gets big. Think large ta
   <br>Two friends wanted their paper wedding invitation, lace and pearls included, rebuilt for the phone. A Three.js envelope opens at a tap, then eleven slides cover the day, the maps, the dress code and the RSVP. The 3D scene stops rendering once the envelope is open, so reading the invite costs no battery.
   <br>[💌 Open the demo](https://wedding-3d-invite-demo-five.vercel.app/) · [Code](https://github.com/xdelmo/wedding-3d-invite)
 
+### 🧪 Side quests
+
+- **Telegram bots** · *TypeScript, Python, grammY, SQLite*
+  <br>Three bots I use every day, and they answer only to me. One tracks my car's deadlines, one keeps my Pokémon card binder, one handles my attendance timesheets.
+
+- **MagSafe card holder** · *Python, build123d, 3D printing*
+  <br>Holds one Pokémon card on the back of an iPhone. Modelled entirely in Python code, with automatic checks that the card actually fits.
+  <br>[🔗 Code](https://github.com/xdelmo/magsafe-cardholder)
+
+- **Volkswagen Up storage tray** · *Python, build123d, Bambu Studio*
+  <br>A parametric insert for my car's door armrest. One command takes it from code to a file ready to print.
+  <br>[🔗 Code](https://github.com/xdelmo/volkswagen-up-door-storage-box)
+
 ---
 
 ### 🛠️ Tools
